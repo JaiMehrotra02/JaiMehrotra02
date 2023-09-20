@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaimehrotra02" alt="jaimehrotra02" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://jaisportfolio.000.pe)
+- 🔭 I’m currently working on [Personal Portfolio](https://jaisportfolio.tech)
 
 - 🌱 I’m currently learning **React.js and Django framework**
 
